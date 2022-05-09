@@ -1,3 +1,4 @@
+susmita susmita susmita
 package BasicPrograms;
 
 public class AplhabetPattern {
