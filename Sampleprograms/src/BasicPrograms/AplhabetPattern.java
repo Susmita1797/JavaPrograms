@@ -1,4 +1,4 @@
-susmita susmita susmita
+siri siri siri
 package BasicPrograms;
 
 public class AplhabetPattern {
@@ -9,7 +9,7 @@ public class AplhabetPattern {
 
 		//		ap.first();
 		//		ap.second();
-		ap.third();
+		aps.third();
 
 	}
 
